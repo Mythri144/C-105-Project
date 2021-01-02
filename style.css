@@ -1,0 +1,22 @@
+.design_words{
+    color: rgb(37, 36, 36);
+}
+
+body{
+    background-color: rgb(151, 212, 240);
+    font-size: large;
+}
+
+.title{
+    color: whitesmoke;
+    font-size: 35px;
+    background-color: rgb(25, 0, 255);
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
+
+#cam, #image{
+    border: 5px dashed rgb(37, 36, 36);
+    width: 400px;
+    height: 400px;
+}
